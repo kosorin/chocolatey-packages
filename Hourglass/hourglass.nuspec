@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>hourglass.install</id>
+    <version>1.8</version>
+    <title>Hourglass (Install)</title>
+    <authors>Chris Dziemborowicz</authors>
+    <owners>Posix</owners>
+    <projectUrl>https://chris.dziemborowicz.com/apps/hourglass/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/dziemborowicz/hourglass/3699f017/Hourglass.Bundle/Logo.png</iconUrl>
+    <licenseUrl>https://cdn.rawgit.com/dziemborowicz/hourglass/3699f017/LICENSE.md</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/dziemborowicz/hourglass</projectSourceUrl>
+    <docsUrl>https://chris.dziemborowicz.com/apps/hourglass/</docsUrl>
+    <bugTrackerUrl>https://github.com/dziemborowicz/hourglass/issues</bugTrackerUrl>
+    <tags>hourglass countdown timer stopwatch admin</tags>
+    <summary>The simple countdown timer for Windows</summary>
+    <description>Hourglass is the most advanced simple countdown timer for Windows. Just enter a time in just about any format, and hit Enter.</description>
+    <releaseNotes>https://github.com/dziemborowicz/hourglass/releases</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
