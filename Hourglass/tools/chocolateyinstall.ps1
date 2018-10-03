@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/dziemborowicz/hourglass/releases/download/v1.9.0/HourglassInstaller.exe'
+$url        = 'https://github.com/dziemborowicz/hourglass/releases/download/v1.10.0/HourglassInstaller.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Hourglass*'
 
-  checksum      = 'B722E67070EAB4B90105FF106D6A6943B46F31BF266BA75725D6AC731D9F31DD'
+  checksum      = '84EDC696E06971794E000CA4B6AF047295E48710CFD7C2483EF47EFF3ED441EE'
   checksumType  = 'sha256'
 
   silentArgs    = "/install /quiet /norestart"
