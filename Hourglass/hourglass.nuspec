@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>hourglass.install</id>
-    <version>1.12</version>
+    <version>1.15</version>
     <title>Hourglass (Install)</title>
     <authors>Chris Dziemborowicz</authors>
     <owners>Posix</owners>
     <projectUrl>https://chris.dziemborowicz.com/apps/hourglass/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/dziemborowicz/hourglass@d78913763bf0e83038aa26094432bd3b30806c34/Hourglass.Bundle/Logo.png</iconUrl>
-    <licenseUrl>https://cdn.jsdelivr.net/gh/dziemborowicz/hourglass@d78913763bf0e83038aa26094432bd3b30806c34/LICENSE.md</licenseUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/dziemborowicz/hourglass@21589c76c9d6e21bf4b523b90c9bd56b8889f36c/Hourglass.Bundle/Logo.png</iconUrl>
+    <licenseUrl>https://cdn.jsdelivr.net/gh/dziemborowicz/hourglass@21589c76c9d6e21bf4b523b90c9bd56b8889f36c/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/dziemborowicz/hourglass</projectSourceUrl>
     <docsUrl>https://chris.dziemborowicz.com/apps/hourglass/</docsUrl>
